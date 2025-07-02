@@ -10,7 +10,8 @@ L'objectif de ce projet est d'illustrer, au travers d'un cas pratique, les diff�
 
 En sortie du projet, en plus de la solution au problème posé, on trouvera un ensemble pédagogique d'artéfacts associés à la démarche de l'architecte système.
 
-## Check list
+## Check list  
+Cette check-list est issue du parcours de formation architecte
 ### Capture du besoin client
 - [ ] Analyse opérationnelle
 - [ ] Contraintes projet (coût, planning, déploiements, maintenance)
