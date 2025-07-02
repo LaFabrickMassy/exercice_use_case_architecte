@@ -14,7 +14,7 @@ Ces outils sont composés schématiquement de 3 composants logiques:
 - Un capteur
 - Un composant d'analyse du signal
 
-Ce projet se focalise sur les choix d'architecture relatifs à la définition et à la fabrication d'une source de lumière pour un testeur d'obturateur.
-Les autres sous-ensemble du testeur d'obturateur (capteur, composant d'analyse du signal, ne font pas partie de l'étude mais en fournissent des éléments d'interface et des contraintes.
+Ce projet se focalise sur les choix d'architecture relatifs à la définition et à la fabrication d'une source de lumière pour un testeur d'obturateur.  
+Les autres sous-ensemble du testeur d'obturateur (capteur, composant d'analyse du signal, etc), ne font pas partie de l'étude mais en constituent l'interface.
 
   
