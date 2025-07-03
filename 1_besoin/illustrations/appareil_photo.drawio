@@ -4,8 +4,8 @@
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="100" y="70" width="430" height="220" as="geometry"/>
+                <mxCell id="8" value="Appareil photo argentique" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="60" width="430" height="230" as="geometry"/>
                 </mxCell>
                 <mxCell id="2" value="Objectif" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="130" y="90" width="120" height="120" as="geometry"/>
@@ -13,13 +13,13 @@
                 <mxCell id="3" value="diaphragme" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
                     <mxGeometry x="300" y="90" width="40" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="obturateur" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                <mxCell id="5" value="obturateur" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;fillColor=#B3B3B3;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
                     <mxGeometry x="385" y="90" width="40" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="11" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6" target="7">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="&lt;span&gt;Posemetre&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                <mxCell id="6" value="&lt;span&gt;Posemetre&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B3B3B3;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
                     <mxGeometry x="130" y="230" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="13" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7" target="5">
@@ -61,13 +61,16 @@
                     <mxGeometry x="470" y="90" width="40" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="19" value="lumière" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="10" y="180" width="60" height="30" as="geometry"/>
+                    <mxGeometry x="20" y="135" width="60" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="20" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.917;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=default;" edge="1" parent="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="79.96" y="249.75" as="sourcePoint"/>
                         <mxPoint x="129.99999999999994" y="249.71000000000004" as="targetPoint"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="lumière" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="235" width="60" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
