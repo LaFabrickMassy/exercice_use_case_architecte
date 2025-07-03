@@ -8,6 +8,8 @@ Parmi les composants susceptibles de se dérêgler, on peut citer principalement
 - Le posemetre, qui mesure l'intensité lumineuse de la scène
 - L'obturateur, qui limite la durée d'exposition de la pellicule à la lumière, afin de l'adapter à l'intensité lumineuse.
 
+![appareil photo](illustrations/appareil_photo.png)
+
 Pour s'assurer du bon fonctionnement de ces composants, les maintenanciers s'appuyent sur des outils de test : les testeurs d'obturateurs.
 Ces outils sont composés schématiquement de 3 composants logiques:
 - __Une source de lumière__
