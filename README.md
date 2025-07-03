@@ -1,4 +1,4 @@
-# source_de_lumiere
+# Exercice Use Case parcours architecte
 
 Use Case d'exercice pour le parcours architecte
 
