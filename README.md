@@ -1,5 +1,6 @@
 # source_de_lumiere
-Etude d'architecture d'une source de lumière pour tester les appareils photo argentiques
+
+Use Case d'exercice pour le parcours architecte
 
 ## Introduction  
 L'objectif de ce projet est d'illustrer, au travers d'un cas pratique sur un sujet non protégé et de taille modeste, les différentes phases du métier d'architecte systèmes.  
