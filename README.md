@@ -2,7 +2,7 @@
 Etude d'architecture d'une source de lumière pour tester les appareils photo argentiques
 
 ## Introduction  
-L'objectif de ce projet est d'illustrer, au travers d'un cas pratique, les différentes phases du métier d'architecte systèmes.  
+L'objectif de ce projet est d'illustrer, au travers d'un cas pratique sur un sujet non protégé et de taille modeste, les différentes phases du métier d'architecte systèmes.  
 - Capture du besoin client
 - Cadrage de la phase architecture
 - Alternatives d'architecture
