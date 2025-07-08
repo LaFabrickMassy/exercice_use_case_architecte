@@ -27,6 +27,7 @@ Le client produit historiquement des appareils qui testent uniquement le composa
 Le client a le souhait d'élargir son offre d'appareils de mesure afin que ceux-ci puissent tester l'ensemble de la chaine de gestion de l'exposition des appareils photos, en incluant le posemetre, le composant de contrôle de l'exposition, le diaphragme et l'obturateur. Cet augmentation du périmètre entraine de nouvelles exigences sur son système, dont la source de lumière fait partie.  
 Le client est compétent sur les composants capteur et analyse du signal. Il a besoin de support pour la conception et la mise en production de la source de lumière.   
 Le client est très sensible à la fois aux couts récurrents et aux couts non récurrents.  
+Le client tient également à maintenir sa réputation au sujet de la qualité technique de ses produits.  
 
 
 
