@@ -9,5 +9,8 @@ https://fr.amen-technologies.com/current-regulators-construction
 Circuit de régulation pour led:  
 https://www.digikey.fr/en/products/detail/evvo/PT4115/22482069  
 https://fr.farnell.com/c/composants-d-eclairage-led/driver-de-led/driver-de-led-dc-dc  
-exemple: FL7760
+exemple: 
+- FL7760
+- AL8862
+- 
 
