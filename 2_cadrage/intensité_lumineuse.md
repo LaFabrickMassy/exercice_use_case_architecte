@@ -22,8 +22,8 @@ Pour mesurer la "luminosité" d'un écran lumineux, on utilise un appareil que l
 |- | - | - |
 | Flux lumineux | Phi | lumen: lm (=cd.sr)|
 | Intensité  lumineuse| Iv | candella: cd (=lm par stéradian)|
-| | | |
-| | | |
+| Eclairement | Ev | lux: lx = lm/m2 = lumen par mètre carré |
+| Exposition | Hv | lux seconde|
 | | | |
 | | | |
 
